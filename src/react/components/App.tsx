@@ -9,6 +9,7 @@ import Sexuality from './pages/Sexuality';
 import Therapy from './pages/Therapy';
 import Form from './Form';
 import '../../style/mobile.scss';
+import '../../style/tablet.scss';
 
 export default function App() {
   const [burgerClicked, setBurger] = useState(false);
