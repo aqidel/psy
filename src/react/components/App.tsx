@@ -10,6 +10,7 @@ import Therapy from './pages/Therapy';
 import Form from './Form';
 import '../../style/mobile.scss';
 import '../../style/tablet.scss';
+import '../../style/laptop.scss';
 
 export default function App() {
   const [burgerClicked, setBurger] = useState(false);
