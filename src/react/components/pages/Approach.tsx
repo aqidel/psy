@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Approach() {
   return (
-    <div className='card-wrap card-5'>
+    <div className='card-page-wrap card-5'>
       <h5 className='card-header'>Мой подход</h5>
       <p className='card-text-page'>
         Я интегрированный психолог, что означает, что я интегрирую различные терапевтические концепции и теоретические идеи при работе с клиентами: 

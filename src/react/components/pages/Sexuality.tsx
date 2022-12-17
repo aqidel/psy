@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Sexuality() {
   return (
-    <div className='card-wrap card-3'>
+    <div className='card-page-wrap card-3'>
       <h4 className='card-number'>3.</h4>
       <h5 className='card-header'>Проблемы,<br/> связанные с сексом,<br/>Бесплодие,<br/>Сексуальная идентичность,<br/>Сексуальность</h5>
       <p className='card-text-page'>

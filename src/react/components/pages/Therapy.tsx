@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Therapy() {
   return (
-    <div className='card-wrap card-1'>
+    <div className='card-page-wrap card-1'>
       <h4 className='card-number'>1.</h4>
       <h5 className='card-header'>Индивидуальная<br/>консультация,<br/>Депрессия,<br/>Тревожность</h5>
       <p className='card-text-page'>

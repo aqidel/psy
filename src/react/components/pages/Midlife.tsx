@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Midlife() {
   return (
-    <div className='card-wrap'>
+    <div className='card-page-wrap'>
       <h4 className='card-number'>2.</h4>
       <h5 className='card-header'>Кризис среднего возраста,<br/>Менопауза,<br/>Мужские проблемы,<br/>Старение</h5>
       <p className='card-text-page'>

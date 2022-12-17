@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div className='card-wrap card-6'>
+    <div className='card-page-wrap card-6'>
       <h5 className='card-header'>Обо мне</h5>
       <p className='card-text-page'>
         Я считаю, что ваши действия обусловлены вашими убеждениями и что, когда вы меняете свои убеждения, вы меняете и свои действия. 

@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Identity() {
   return (
-    <div className='card-wrap card-4'>
+    <div className='card-page-wrap card-4'>
       <h4 className='card-number'>4.</h4>
       <h5 className='card-header'>Проблемы идентичности,<br/>Личностное развитие,<br/>Отношения</h5>
       <p className='card-text-page'>
